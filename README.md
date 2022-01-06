@@ -1,4 +1,3 @@
-**instructions: Add a profile of yourself, a description of the course, project ideas, and your objectives for the class.**
 # UP206A Winter 2022 - Bailey Lai's page
 ## Profile
 **Bailey Lai** 
