@@ -13,3 +13,10 @@ This assignment can be as long or as short as you desire. It is meant to review 
 * provide a title and explanatory description of what the purpose of the notebook is
 * provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 * upload your notebook to your GitHub account
+
+Submit a link to your notebook [here](https://github.com/yohman/22W-UP206A/discussions/14).
+
+## Bailey's Notes
+What I should do: 
+* look into cleaned traffic collision data
+* integrate isochrone maps and think about how to use it in relation to socioeconomics, biking distance, etc.
